@@ -1,0 +1,52 @@
+
+/*css head*/
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+/*css formulaire*/
+body p{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue; 
+}
+body{
+    background-color: #070320;
+    color: aliceblue;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 20px;
+}
+/*deplacer le formulaire*/
+div{
+    margin-left: 35pc;
+    margin-top: 3pc;
+}
+/*deplacer les titres du formulaires*/
+div p{
+    margin-right: 750px;
+
+}
+/*modification bouton*/
+input[type="submit"]{
+    background-color: red;
+    border: none;
+    color:rgb(250, 250, 250);
+    padding: 6px 13px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+/*section images*/
+.icon-jeux{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.icon-jeux img{
+    width: 90px;
+    height: 90px;
+    margin: 0 10px;
+    
+}
