@@ -19,14 +19,13 @@ body{
     font-size: 20px;
 }
 /*deplacer le formulaire*/
-div{
+#formulaire{
     margin-left: 35pc;
     margin-top: 3pc;
 }
 /*deplacer les titres du formulaires*/
-div p{
+#formulaire p{
     margin-right: 750px;
-
 }
 /*modification bouton*/
 input[type="submit"]{
